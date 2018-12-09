@@ -8,3 +8,4 @@ I created a simple drum kit by adding JavaScript to the starter files given. Thi
 
 I learned a little more about some ES6 syntax, which is somehting I am still new to. Feel free to check out the deployed project below:
 
+https://rahat-ch.github.io/JS30Day1_DrumKit/
